@@ -1,3 +1,6 @@
-docs/*.pdf
+/node_modules
 
-.gitignore
+/docs/*.pdf
+
+.env
+.env*.local
